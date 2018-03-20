@@ -1,0 +1,18 @@
+# Dependency directory
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Local env variables
+.env
+
+# Build directory
+build/
+
+# Macs
+.DS_Store/
+
+# Private
+_private/
